@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+
+.navbar-bg-color{
+    background-color: #0b99bc;
+}
+
+.navbar-icon{
+    color: white;
+}
+.navbar-icon:hover{
+
+    background: white;
+    border-radius: 8px;
+}
+
+
+
+#home{
+    background-color: #037d9d;
+    padding: 5% 7%;
+    
+}
+
+.contact-bg-color{
+    background-color: #0b99bc;
+   }
+
+   
+.footer-bg-color{
+    background-color: #037d98;
+    text-align: justify;
+}
+
+.feedback-img{
+    width: 120px;
+    height: auto;
+}
+.carousel-indicators{
+    bottom: -50px;
+}
+
+.card{
+    transition: 0.4s;
+    border: #0b99bc;
+    /* height: 450px; */
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 6px 5px black;
+}
+
+
+
+
+    .log-in-sub{
+        background-color: #0b99bc;
+    }
+
+.font-color{
+    font-size: medium;
+    color: white;
+}
+.font-color:hover{
+    color: black;
+}
+
+
+
+.icon{
+    font-size: x-large;
+        padding: 5px;
+
+    }
+
+
+    .form{
+        background: #037d98;
+        padding: 3px;
+        height: max-content;
+        margin: auto;
+    }
+    
+    .registation-form-heading{
+        font-size: xx-large;
+    }
+
+/* fixed */
